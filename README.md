@@ -1,5 +1,5 @@
 # test_project
-## this reository for test
+## this repository for test
 Testing
 A new Flutter application.
 
